@@ -22,7 +22,7 @@ var data = [
     { "label": "酸辣粉", "value": 1, "award": "酸辣粉" }, //font-size
     { "label": "泰式", "value": 1, "award": "泰式" }, //background-color
     { "label": "隱家拉麵", "value": 1, "award": "隱家拉麵" }, //nesting
-    { "label": "老哥雞肉飯", "value": 1, "award": "老哥雞肉飯" }
+    { "label": "巷子雞肉飯", "value": 1, "award": "巷子雞肉飯" }
 ];
 
 var newData = [
